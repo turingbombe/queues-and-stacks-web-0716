@@ -45,9 +45,17 @@ This is where we need the second stack, so that we can manage both ends
 of the queue. Therefore, your `enqueue` and `dequeue` methods will be
 making decisions about operating on both stacks.
 
+It would be easy enough to `pop` everything from `stack1` on a `dequeue`
+call and `push` them to `stack2`, then `pop` `stack2` to get the result
+for `dequeue`, but then what is the state of our stacks? What do we have
+to do if the next operation is `enqueue`?
+
+Keep in mind that the order FIFO is for the queue, not for the
+individual stacks, so we need to make sure that the next item for
+`dequeue` is always the oldest item that was `enqueued`.
+
 # Questions to Answer
 
-* What is O(1)?
 * What is the difference between a Queue and a Stack?
 
 # Further Reading
