@@ -25,7 +25,7 @@ stack is.
 
 # Objective
 
-Implement a queue ↴ with 2 stacks ↴ . Your queue should have `enqueue` and `dequeue` methods and it should be "first in first out" (FIFO). Under the hood of the queue, you should utilize two stacks to manage the state of the queue.
+Implement a queue with 2 stacks. Your queue should have `enqueue` and `dequeue` methods and it should be "first in first out" (FIFO). Under the hood of the queue, you should utilize two stacks to manage the state of the queue.
 
 You'll have two sets of specs in the `spec` folder to guide you. First
 implement your `Stack` class, then use it to implement your `Queue`
