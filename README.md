@@ -2,6 +2,7 @@
 name: Queues and Stacks
 tags: queues, stacks, data structures
 languages: ruby
+  resources: 3
 ---
 
 # Introduction
@@ -71,3 +72,8 @@ individual stacks, so we need to make sure that the next item for
 ![queue](http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Data_Queue.svg/500px-Data_Queue.svg.png)
 
 ![stack](http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Data_stack.svg/500px-Data_stack.svg.png)
+
+## Resources
+* [Interview Cake](https://www.interviewcake.com/) - [Queue Two Stacks](https://www.interviewcake.com/question/queue-two-stacks)
+* [Wikipedia](http://en.wikipedia.org/) - [Stack (abstract data type)](http://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+* [Wikipedia](http://en.wikipedia.org/) - [Queue (abstract data type)](http://en.wikipedia.org/wiki/Queue_(abstract_data_type))
