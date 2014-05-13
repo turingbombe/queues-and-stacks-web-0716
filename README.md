@@ -1,7 +1,7 @@
 ---
-name: Queues and Stacks
-tags: queues, stacks, data structures
-languages: ruby
+  name: Queues and Stacks
+  tags: queues, stacks, data structures
+  languages: ruby
   resources: 3
 ---
 
