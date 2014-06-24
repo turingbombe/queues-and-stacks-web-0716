@@ -1,7 +1,7 @@
 ---
-name: Queues and Stacks
 tags: queues, stacks, data structures
 languages: ruby
+resources: 5
 ---
 
 # Introduction
@@ -61,7 +61,8 @@ individual stacks, so we need to make sure that the next item for
 
 * What is the difference between a Queue and a Stack?
 
-# Further Reading
+# Resources
+
 [Queue on Wikipedia](http://en.wikipedia.org/wiki/Queue_(abstract_data_type\))
 
 [Stacks on Wikipedia](http://en.wikipedia.org/wiki/Stack_(abstract_data_type\))
