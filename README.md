@@ -1,8 +1,7 @@
 ---
-  name: Queues and Stacks
-  tags: queues, stacks, data structures
-  languages: ruby
-  resources: 3
+tags: queues, stacks, data structures
+languages: ruby
+resources: 5
 ---
 
 # Introduction
@@ -26,7 +25,7 @@ stack is.
 
 # Objective
 
-Implement a queue with 2 stacks. Your queue should have `enqueue` and `dequeue` methods and it should be "first in first out" (FIFO). Under the hood of the queue, you should utilize two stacks to manage the state of the queue.
+Implement a queue ↴ with 2 stacks ↴ . Your queue should have `enqueue` and `dequeue` methods and it should be "first in first out" (FIFO). Under the hood of the queue, you should utilize two stacks to manage the state of the queue.
 
 You'll have two sets of specs in the `spec` folder to guide you. First
 implement your `Stack` class, then use it to implement your `Queue`
@@ -62,7 +61,8 @@ individual stacks, so we need to make sure that the next item for
 
 * What is the difference between a Queue and a Stack?
 
-# Further Reading
+# Resources
+
 [Queue on Wikipedia](http://en.wikipedia.org/wiki/Queue_(abstract_data_type\))
 
 [Stacks on Wikipedia](http://en.wikipedia.org/wiki/Stack_(abstract_data_type\))
@@ -72,8 +72,3 @@ individual stacks, so we need to make sure that the next item for
 ![queue](http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Data_Queue.svg/500px-Data_Queue.svg.png)
 
 ![stack](http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Data_stack.svg/500px-Data_stack.svg.png)
-
-## Resources
-* [Interview Cake](https://www.interviewcake.com/) - [Queue Two Stacks](https://www.interviewcake.com/question/queue-two-stacks)
-* [Wikipedia](http://en.wikipedia.org/) - [Stack (abstract data type)](http://en.wikipedia.org/wiki/Stack_(abstract_data_type))
-* [Wikipedia](http://en.wikipedia.org/) - [Queue (abstract data type)](http://en.wikipedia.org/wiki/Queue_(abstract_data_type))
