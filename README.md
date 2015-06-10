@@ -9,23 +9,23 @@ resources: 5
 A **queue** is like a line at the movie theater. It's "first in, first out" (FIFO), which means that the item that was put in the queue longest ago is the first item that comes out. "First come, first served."
 
 Queues have two main methods:
-`enqueue()` : adds an item to the "back" of the line
-`dequeue()` : removes and returns the next item, or "front" of the line
+`#enqueue` : adds an item to the "back" of the line
+`#dequeue` : removes and returns the next item, or "front" of the line
 
 A **stack** is like a stack of plates. It's "last in, first out" (LIFO), which means that the item that was put in the stack most recently is the first item that comes out.
 
 Stacks have two main methods:
-`push()` : adds an item to the "top" of the stack, pushing everything else
+`#push` : adds an item to the "top" of the stack, pushing everything else
 down
-`pop()` : removes and returns the top item, moving the next item to the
+`#pop` : removes and returns the top item, moving the next item to the
 "top"
 
-We will also make use of a `size()` method to keep track of how big our
+We will also make use of a `#size` method to keep track of how big our
 stack is.
 
 # Objective
 
-Implement a queue ↴ with 2 stacks ↴ . Your queue should have `enqueue` and `dequeue` methods and it should be "first in first out" (FIFO). Under the hood of the queue, you should utilize two stacks to manage the state of the queue.
+Implement a queue with 2 stacks. Your queue should have `enqueue` and `dequeue` methods and it should be "first in first out" (FIFO). Under the hood of the queue, you should utilize two stacks to manage the state of the queue.
 
 You'll have two sets of specs in the `spec` folder to guide you. First
 implement your `Stack` class, then use it to implement your `Queue`
