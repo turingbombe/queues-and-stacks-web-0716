@@ -33,7 +33,7 @@ class. When you're done, all the specs should pass.
 
 Optimize for the time cost of **m** function calls on your queue. These can be any mix of `enqueue` and `dequeue` calls. Assume your stack implementation gives O(1) time `push` and `pop`.
 
- Implementation Notes
+### Implementation Notes
 
 What Ruby type can we use to implement our `Stack` class that will give
 O(1) `push` and `pop`?
