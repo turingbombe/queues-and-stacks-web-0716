@@ -1,8 +1,4 @@
----
-tags: queues, stacks, data structures
-languages: ruby
-resources: 5
----
+
 
 # Introduction
 
