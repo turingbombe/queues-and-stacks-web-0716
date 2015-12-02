@@ -68,3 +68,5 @@ individual stacks, so we need to make sure that the next item for
 ![queue](http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Data_Queue.svg/500px-Data_Queue.svg.png)
 
 ![stack](http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Data_stack.svg/500px-Data_stack.svg.png)
+
+<a href='https://learn.co/lessons/queues-and-stacks' data-visibility='hidden'>View this lesson on Learn.co</a>
