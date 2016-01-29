@@ -69,4 +69,4 @@ individual stacks, so we need to make sure that the next item for
 
 ![stack](http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Data_stack.svg/500px-Data_stack.svg.png)
 
-<a href='https://learn.co/lessons/queues-and-stacks' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/queues-and-stacks' title='Introduction'>Introduction</a> on Learn.co and start learning to code for free.</p>
